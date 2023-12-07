@@ -1,5 +1,5 @@
 # tms-eeg-using-optimized-sham-outside-M1
-This repository contains the code used to produce results in the manuscript: Evoked EEG responses to TMS targeting regions outside the primary motor cortex and their test-retest reliability. Song, Y., Gordon, P. C., Metsomaa, J., Rostami, M., Belardinelli, P., & Ziemann, U. in submission, 2023. 
+This repository contains the code used to produce results in the manuscript: Song, Y., Gordon, P. C., Metsomaa, J., Rostami, M., Belardinelli, P., & Ziemann, U. (2023). Evoked EEG Responses to TMS Targeting Regions Outside the Primary Motor Cortex and Their Test–Retest Reliability. Brain Topography, 1-18. 
 
 Summary:
 
